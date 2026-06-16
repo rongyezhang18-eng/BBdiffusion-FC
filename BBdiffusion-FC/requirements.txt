@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torch-geometric
+scikit-learn
+scikit-image
+scipy
+matplotlib
+
+PyYAML

@@ -1,0 +1,10 @@
+# GAT-based autoencoder.
+top_k: 30
+num_nodes: 116
+latent_dim: 64
+hidden_dim: 256
+batch_size: 32
+epochs: 500
+patience: 50
+lr: 1.0e-3
+weight_decay: 1.0e-5

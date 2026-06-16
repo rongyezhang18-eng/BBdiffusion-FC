@@ -1,0 +1,3 @@
+project: BBdiffusion-FC
+atlas: AAL116
+task: longitudinal_fc_prediction

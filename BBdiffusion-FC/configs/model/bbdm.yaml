@@ -1,0 +1,8 @@
+# Brownian bridge diffusion settings.
+timesteps: 1000
+ddim_steps: 200
+objective: grad
+loss_type: l1
+max_var: 1.0
+include_y_in_cond: false
+eta: 1.0

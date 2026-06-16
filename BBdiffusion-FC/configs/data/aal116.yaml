@@ -1,0 +1,6 @@
+# Data interface for AAL116 functional-connectivity matrices.
+# Replace all entries according to your local preprocessing output.
+num_nodes: 116
+latent_dim: 64
+age_min: 6.0
+age_max: 18.0
